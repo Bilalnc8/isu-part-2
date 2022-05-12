@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isu-part-2/static/css/main.4e288c67.css",
+    "main.js": "/isu-part-2/static/js/main.904aaa38.js",
+    "static/js/787.8b0661b6.chunk.js": "/isu-part-2/static/js/787.8b0661b6.chunk.js",
+    "index.html": "/isu-part-2/index.html",
+    "main.4e288c67.css.map": "/isu-part-2/static/css/main.4e288c67.css.map",
+    "main.904aaa38.js.map": "/isu-part-2/static/js/main.904aaa38.js.map",
+    "787.8b0661b6.chunk.js.map": "/isu-part-2/static/js/787.8b0661b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e288c67.css",
+    "static/js/main.904aaa38.js"
+  ]
+}
